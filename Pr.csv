@@ -1,2 +1,2 @@
-producaID,validF,validT,productID,priceq,spraas,product1Description
+productUUID,validFrom,validTo,productID,price,spras,productDescription
 12345678-aaaa-bbbb-cccc-ddddeeeeffff,2018-04-24,2018-04-24,pid,200,abc,prodDesc
