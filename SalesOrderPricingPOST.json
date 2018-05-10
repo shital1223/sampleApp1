@@ -1,0 +1,8 @@
+{
+  "urls": [
+    {
+      "fileUrl": "https://raw.githubusercontent.com/shital1223/sampleApp1/master/SalesOrderPricingPost.csv",
+      "serviceUrl": "https://icbs-bcs-test-sales-order-cdx-srv.cfapps.sap.hana.ondemand.com/odata/v2/ConfigurationService/SalesOrderPricing"
+    }
+  ]
+} 
